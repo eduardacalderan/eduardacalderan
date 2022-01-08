@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js and Next.js
 - 😄 Pronouns: she/her
 
 
