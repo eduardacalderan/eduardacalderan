@@ -1,8 +1,8 @@
 ### Hi there! I'm Eduarda Calderan. 👋
 
 
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning React.js and Next.js
+- 🔭 I’m currently working on full-stack
+- 🌱 I’m currently learning Next.js
 - 😄 Pronouns: she/her
 
 
