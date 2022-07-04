@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on full-stack
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Node.js
 - 😄 Pronouns: she/her
 
 
