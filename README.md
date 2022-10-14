@@ -1,7 +1,7 @@
 ### Hi there! I'm Eduarda Calderan. 👋
 
 
-- 🔭 I’m currently working on front-end
+- 🔭 I’m currently working on full-stack
 - 😄 Pronouns: she/her
 
 
